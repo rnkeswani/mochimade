@@ -1,0 +1,7 @@
+# Local credentials must never be published by GitHub Pages.
+.env
+.env.*
+!.env.example
+*.secret
+private-apps-script/
+node_modules/
